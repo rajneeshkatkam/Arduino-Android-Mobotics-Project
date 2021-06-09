@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RemoteMobotics</string>
+    <string name="status">status</string>
+    <string name="yaw">Yaw</string>
+    <string name="pitch">Pitch</string>
+    <string name="roll">Roll</string>
+    <string name="kp">Kp</string>
+    <string name="ki">Ki</string>
+    <string name="kd">Kd</string>
+    <string name="open_camera_settings">Open Camera Settings</string>
+    <string name="todo">todo</string>
+    <string name="change">change</string>
+</resources>

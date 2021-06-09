@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/norm"
+          android:title="Normal"/>
+    <item android:id="@+id/hist"
+        android:title="Histogram"/>
+    <item android:id="@+id/thresh"
+            android:title="Threshold"/>
+    <item android:id="@+id/accum"
+        android:title="Accumulate"/>
+
+</menu>
